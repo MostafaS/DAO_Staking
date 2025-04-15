@@ -52,7 +52,6 @@ module.exports = {
     showMethodSig: true, 
     showGasUsed: true, 
   },
-
   etherscan: {
     apiKey: ETHERSCAN_API_KEY,
   },
